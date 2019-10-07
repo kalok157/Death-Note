@@ -1,0 +1,1761 @@
+﻿1
+00:00:03,162 --> 00:00:05,289
+<i>Dentro da escuridão imensa</i>
+
+2
+00:00:05,456 --> 00:00:08,083
+<i>Eu fiz um juramento de revolução</i>
+
+3
+00:00:08,250 --> 00:00:13,214
+<i>Não posso deixar ninguém
+Me impedir</i>
+
+4
+00:00:13,380 --> 00:00:18,427
+<i>Eu vou mudar</i>
+
+5
+00:00:26,936 --> 00:00:31,148
+<i>O futuro anunciado
+Pelo fruto proibido</i>
+
+6
+00:00:31,315 --> 00:00:35,277
+<i>Eu vou transformar</i>
+
+7
+00:00:35,444 --> 00:00:39,949
+<i>O sonho em realidade</i>
+
+8
+00:00:42,326 --> 00:00:45,329
+<i>O final</i>
+
+9
+00:00:45,496 --> 00:00:51,460
+<i>Que todos querem</i>
+
+10
+00:00:52,461 --> 00:00:54,838
+<i>Dentro da escuridão imensa</i>
+
+11
+00:00:55,005 --> 00:00:57,466
+<i>Eu fiz um juramento de revolução</i>
+
+12
+00:00:57,633 --> 00:01:02,263
+<i>Não posso deixar ninguém
+Me impedir</i>
+
+13
+00:01:02,429 --> 00:01:07,768
+<i>Um dia vou lhe mostrar</i>
+
+14
+00:01:07,935 --> 00:01:11,355
+<i>Um mundo</i>
+
+15
+00:01:11,522 --> 00:01:17,152
+<i>Claro e ideal</i>
+
+16
+00:01:25,953 --> 00:01:28,914
+ASSALTO
+
+17
+00:01:40,926 --> 00:01:43,095
+Quanto ao desaparecimento
+de Naomi Misora,
+
+18
+00:01:43,554 --> 00:01:46,015
+não devíamos abrir
+uma investigação dessa questão?
+
+19
+00:01:46,223 --> 00:01:48,434
+Se abrirmos, ela deve ser coordenada
+separadamente do caso Kira.
+
+20
+00:01:48,976 --> 00:01:51,520
+Também teremos que usar retratos
+falados ao invés de foto reais.
+
+21
+00:01:51,687 --> 00:01:54,565
+Estamos falando de alguém que está
+desaparecida há quatro meses já.
+
+22
+00:01:55,190 --> 00:01:56,608
+É provável que ela esteja morta.
+
+23
+00:01:57,609 --> 00:02:01,113
+Se você tiver razão, acho estranho
+não termos encontrado o corpo ainda.
+
+24
+00:02:01,947 --> 00:02:04,616
+Se encontrássemos, ele poderia
+nos dar evidências físicas.
+
+25
+00:02:05,909 --> 00:02:08,245
+Ryuzaki. Algo acontece na TV Sakura.
+
+26
+00:02:08,954 --> 00:02:10,122
+Algo de mau está se passando.
+
+27
+00:02:11,290 --> 00:02:14,918
+<i>Em outras palavras, os repórteres
+e equipes são reféns de Kira.</i>
+
+28
+00:02:15,085 --> 00:02:16,420
+<i>Fora isso, temos
+uma obrigação profissional</i>
+
+29
+00:02:16,587 --> 00:02:18,339
+<i>de compartilhar essa mensagem.</i>
+
+30
+00:02:18,964 --> 00:02:20,841
+<i>Eu assegure
+que isso não é uma fraude</i>
+
+31
+00:02:21,008 --> 00:02:24,553
+<i>e que a TV Sakura não transmite
+essa fita por sensacionalismo.</i>
+
+32
+00:02:25,095 --> 00:02:26,430
+Reféns do Kira?
+
+33
+00:02:26,597 --> 00:02:28,140
+O que é isso?
+
+34
+00:02:29,224 --> 00:02:33,395
+<i>Há quatro dias, o diretor de nosso
+programa recebeu quatro fitas.</i>
+
+35
+00:02:33,562 --> 00:02:37,066
+<i>Depois de exame detalhado, não há
+dúvidas de que vieram do Kira.</i>
+
+36
+00:02:37,232 --> 00:02:41,362
+<i>Nossa audiência deve ir às alturas.
+Vamos bater recorde depois disso.</i>
+
+37
+00:02:42,696 --> 00:02:44,031
+<i>A primeira fita que recebemos</i>
+
+38
+00:02:44,323 --> 00:02:48,410
+<i>contém prognóstico da hora da morte
+de 2 suspeitos presos recentemente.</i>
+
+39
+00:02:49,370 --> 00:02:50,537
+<i>E como previsto,</i>
+
+40
+00:02:50,996 --> 00:02:53,040
+<i>na hora exata que Kira especificou,</i>
+
+41
+00:02:53,248 --> 00:02:55,167
+<i>ambos os homens morreram
+de ataques cardíacos ontem.</i>
+
+42
+00:02:55,709 --> 00:02:59,755
+Se o que eles dizem for verdade, é
+claramente algo que só Kira faria.
+
+43
+00:03:00,506 --> 00:03:07,429
+<i>Kira instruiu a transmitir a
+segunda fita exatamente às 17:59.</i>
+
+44
+00:03:08,222 --> 00:03:10,641
+<i>Pretendemos cumprir suas exigências.
+Essa fita deve oferecer provas</i>
+
+45
+00:03:11,016 --> 00:03:12,309
+<i>de seus poderes prevendo
+mais uma morte.</i>
+
+46
+00:03:12,476 --> 00:03:16,271
+<i>Além disso, compreendemos que contém
+uma mensagem de Kira a todo o mundo.</i>
+
+47
+00:03:17,439 --> 00:03:19,483
+Isso deve ser outro truque,
+você não acha?
+
+48
+00:03:19,650 --> 00:03:23,445
+Duvido. Tenho certeza de que nem
+a TV Sakura desceria tão baixo.
+
+49
+00:03:24,029 --> 00:03:25,197
+<i>E agora, o vídeo.</i>
+
+50
+00:03:33,247 --> 00:03:34,540
+<i>Eu sou Kira.</i>
+
+51
+00:03:35,207 --> 00:03:40,921
+<i>Se o vídeo está no ar em 18 de abril
+exatamente às 17:59, como pedi,</i>
+
+52
+00:03:41,088 --> 00:03:46,176
+<i>então agora são 17:59:47, 48, 49...</i>
+
+53
+00:03:46,427 --> 00:03:48,512
+<i>Por favor, troquem
+o canal para a TV Taiyo.</i>
+
+54
+00:03:49,138 --> 00:03:51,348
+<i>O âncora, senhor Kazuhiko Hibima</i>
+
+55
+00:03:51,640 --> 00:03:53,767
+<i>vai morrer de um ataque cardíaco
+exatamente às 18h.</i>
+
+56
+00:03:54,393 --> 00:03:55,561
+- O quê?!
+- Muda!
+
+57
+00:03:57,521 --> 00:03:58,522
+Não pode ser!
+
+58
+00:03:58,689 --> 00:04:01,567
+<i>- O que aconteceu?! Para de rodar!
+- Desliguem as câmeras, agora!</i>
+
+59
+00:04:02,067 --> 00:04:03,569
+Como pode?!
+
+60
+00:04:03,819 --> 00:04:05,112
+Muda de volta.
+
+61
+00:04:05,404 --> 00:04:07,322
+- <i>Preciso que</i> traga <i>outra TV, Watari.</i>
+- <i>O Sr. Hibima se referiu ao Kira</i>
+
+62
+00:04:07,489 --> 00:04:09,700
+- <i>Não, traz</i> duas.
+<i>- Como "maligno" em Comentários.</i>
+
+63
+00:04:10,075 --> 00:04:11,243
+- Sim.
+- <i>Essa é sua punição.</i>
+
+64
+00:04:12,035 --> 00:04:13,620
+<i>Vou apresentar
+a vocês uma outra vítima.</i>
+
+65
+00:04:14,496 --> 00:04:18,333
+<i>Meu próximo alvo é o comentarista
+da NHN TV, Senhor Seiji Kumaizumi,</i>
+
+66
+00:04:18,500 --> 00:04:22,421
+<i>que vai aparecer numa transmissão
+ao vivo. Também ousou desafiar Kira.</i>
+
+67
+00:04:23,046 --> 00:04:24,047
+Ryuzaki!
+
+68
+00:04:24,214 --> 00:04:25,507
+Muda pro canal 24!
+
+69
+00:04:26,216 --> 00:04:27,759
+- Alguém faz alguma coisa!
+- Chamem uma <i>ambulância!</i>
+
+70
+00:04:28,010 --> 00:04:29,136
+Muda de novo.
+
+71
+00:04:30,387 --> 00:04:32,473
+<i>Agora que viram provas de
+meu poder, não terão dificuldade</i>
+
+72
+00:04:32,639 --> 00:04:34,475
+<i>em acreditar que eu sou o Kira.</i>
+
+73
+00:04:35,684 --> 00:04:40,022
+<i>Kira disse que ia enviar
+uma mensagem às pessoas do mundo.</i>
+
+74
+00:04:40,355 --> 00:04:42,774
+Parem essa transmissão!
+Não podemos deixar ele terminar!
+
+75
+00:04:44,401 --> 00:04:45,694
+Oh! Liga pra TV Sakura!
+
+76
+00:04:47,321 --> 00:04:48,405
+Não adianta.
+
+77
+00:04:48,572 --> 00:04:51,200
+Estou tentando, mas nenhum dos meus
+contatos tem o telefone ligado.
+
+78
+00:04:51,450 --> 00:04:53,452
+E ninguém atende
+na recepção também!
+
+79
+00:04:53,619 --> 00:04:54,703
+Droga!
+
+80
+00:04:55,829 --> 00:04:57,080
+Oh, Ukita!
+
+81
+00:04:57,247 --> 00:04:59,416
+Eu mesmo vou parar a transmissão,
+se for preciso!
+
+82
+00:05:01,293 --> 00:05:03,462
+<i>Pessoas do mundo,
+por favor, ouçam.</i>
+
+83
+00:05:03,795 --> 00:05:06,256
+<i>A última coisa
+que quero é matar inocentes.</i>
+
+84
+00:05:07,132 --> 00:05:09,551
+<i>Eu odeio o mal e amo a justiça.</i>
+
+85
+00:05:10,219 --> 00:05:14,181
+<i>Sempre pensei na polícia
+como aliada, não como inimiga.</i>
+
+86
+00:05:15,265 --> 00:05:16,308
+<i>Vai se danar, Kira.</i>
+
+87
+00:05:16,767 --> 00:05:20,604
+<i>Pretendo criar um novo mundo,
+um mundo perfeito livre do mal.</i>
+
+88
+00:05:21,271 --> 00:05:24,608
+<i>Se concordarem em se unir a mim na
+missão, sei que podemos fazer isso.</i>
+
+89
+00:05:25,275 --> 00:05:29,279
+<i>E se ninguém tentar me pegar,
+prometo que inocentes não morrerão.</i>
+
+90
+00:05:29,696 --> 00:05:30,781
+Vamos!
+
+91
+00:05:31,365 --> 00:05:33,825
+Mesmo não concordando,
+
+92
+00:05:34,076 --> 00:05:36,620
+<i>eu só peço que não publiquem
+suas ideias na mídia.</i>
+
+93
+00:05:36,828 --> 00:05:38,497
+<i>Se puderem fazer isso,
+serão poupados.</i>
+
+94
+00:05:39,331 --> 00:05:41,542
+<i>E só precisam agora ser pacientes.</i>
+
+95
+00:05:42,417 --> 00:05:44,545
+<i>Vou criar um mundo melhor
+que todos possamos aproveitar.</i>
+
+96
+00:05:45,504 --> 00:05:47,339
+<i>Deem adeus ao mundo que conhecem.</i>
+
+97
+00:05:47,673 --> 00:05:50,050
+<i>Breve teremos um novo mundo
+comandado por benevolência,</i>
+
+98
+00:05:50,217 --> 00:05:52,177
+<i>habitado por pessoas honestas
+e de bom coração.</i>
+
+99
+00:05:54,096 --> 00:05:57,849
+Tentem imaginar.
+Um mundo onde a polícia e eu...
+
+100
+00:06:01,228 --> 00:06:02,354
+Sachiko.
+
+101
+00:06:05,357 --> 00:06:09,778
+Querido, isso não é bom pra sua
+saúde. Você tem que descansar.
+
+102
+00:06:13,490 --> 00:06:17,786
+Sachiko, queira ou não, ainda
+sou chefe da força tarefa do Kira.
+
+103
+00:06:29,798 --> 00:06:31,675
+Droga! Está trancado!
+
+104
+00:06:32,843 --> 00:06:35,095
+Aqui é a polícia! Abre!
+
+105
+00:06:36,221 --> 00:06:38,181
+Idiotas!
+
+106
+00:06:59,703 --> 00:07:02,748
+- Alô? <i>Droga.</i> Ainda <i>não consegui.</i>
+- <i>lnterrompo</i> a <i>programação normal</i>
+
+107
+00:07:02,914 --> 00:07:04,625
+<i>para mostrar ao vivo a entrada
+do prédio da TV Sakura.</i>
+
+108
+00:07:04,791 --> 00:07:06,251
+Oh, Aizawa, olha!
+
+109
+00:07:12,215 --> 00:07:14,426
+<i>Como podem ver, alguém
+desmaiou diante da porta!</i>
+
+110
+00:07:14,843 --> 00:07:17,512
+<i>Estamos aqui ao vivo
+da porta do prédio da TV Sakura!</i>
+
+111
+00:07:18,430 --> 00:07:23,352
+Ukita! Droga.
+Kira fez isso?
+
+112
+00:07:24,603 --> 00:07:25,687
+Hum, Aizawa,
+
+113
+00:07:26,897 --> 00:07:28,315
+aonde você vai?!
+
+114
+00:07:28,857 --> 00:07:30,776
+Onde você acha?
+Tenho que ir lá.
+
+115
+00:07:31,276 --> 00:07:34,112
+Não pode. Por favor,
+pense racionalmente.
+
+116
+00:07:34,321 --> 00:07:36,657
+Quer que eu pare aqui
+e fique vendo TV?
+
+117
+00:07:37,491 --> 00:07:41,286
+Se isso for coisa do Kira mesmo, você
+vai ter o mesmo destino se for lá.
+
+118
+00:07:41,745 --> 00:07:44,456
+Achei que tinha dito que Kira
+não podia matar sem um nome!
+
+119
+00:07:45,207 --> 00:07:46,625
+Então, como isso pode acontecer?!
+
+120
+00:07:47,376 --> 00:07:49,711
+É óbvio que ter nomes e
+identidades falsas não adiantam!
+
+121
+00:07:49,961 --> 00:07:53,632
+O que vamos fazer, L? Kira já
+deve saber os nossos nomes, não é?
+
+122
+00:07:54,216 --> 00:07:56,385
+É uma possibilidade.
+
+123
+00:07:57,219 --> 00:07:59,846
+Mas se for esse o caso,
+seria mais fácil para ele
+
+124
+00:08:00,013 --> 00:08:02,432
+matar toda a força tarefa
+antes de agir.
+
+125
+00:08:03,266 --> 00:08:06,269
+Inicialmente, deduzi que Kira
+precisava de nome e rosto para matar,
+
+126
+00:08:06,812 --> 00:08:08,397
+mas pelo que acabamos de ver,
+
+127
+00:08:08,563 --> 00:08:12,442
+diria que não é totalmente impossível
+Kira matar só com um rosto.
+
+128
+00:08:15,362 --> 00:08:18,490
+Só sei com certeza que Kira
+está naquela emissora,
+
+129
+00:08:18,824 --> 00:08:21,743
+ou está perto, num lugar onde possa
+observar todos que entram no prédio.
+
+130
+00:08:21,910 --> 00:08:22,911
+Talvez ele...
+
+131
+00:08:23,078 --> 00:08:26,498
+Se Kira estiver na área, não é
+mais um motivo para irmos até lá?!
+
+132
+00:08:27,332 --> 00:08:30,669
+Pelo que vimos, ele pode ter colocado
+câmeras de segurança na área.
+
+133
+00:08:31,169 --> 00:08:33,839
+Se corrermos lá sem preparo,
+todos nós seremos mortos.
+
+134
+00:08:34,005 --> 00:08:37,175
+Você disse que teríamos que arriscar
+nossas vidas para pegar o Kira!
+
+135
+00:08:37,759 --> 00:08:40,721
+Eu falei sério, mas arriscar a vida
+para pegar o Kira e fazer uma coisa
+
+136
+00:08:40,887 --> 00:08:44,766
+que eu sei que vai custar a minha
+vida são duas coisas diferentes.
+
+137
+00:08:44,933 --> 00:08:46,309
+Ah, é?!
+
+138
+00:08:50,814 --> 00:08:54,693
+Por favor, controle-se.
+Perdemos Ukita.
+
+139
+00:08:55,402 --> 00:08:58,989
+Entendo que você queira ir lá, mas
+se algo acontecer a você também...
+
+140
+00:09:03,326 --> 00:09:05,454
+<i>Agora espero
+uma resposta da polícia.</i>
+
+141
+00:09:05,620 --> 00:09:07,414
+<i>Devem decidir
+se vão me ajudar ou não</i>
+
+142
+00:09:07,581 --> 00:09:09,166
+<i>a criar um mundo melhor
+para todos nós.</i>
+
+143
+00:09:09,332 --> 00:09:12,461
+<i>Por favor, anunciem sua decisão no
+noticiário das seis em quatro dias.</i>
+
+144
+00:09:12,878 --> 00:09:15,672
+<i>Eu preparei dois vídeos: um pra ser
+transmitido se a resposta for sim</i>
+
+145
+00:09:15,839 --> 00:09:17,716
+<i>e outro se a resposta for não.</i>
+
+146
+00:09:40,947 --> 00:09:42,866
+O que está havendo?!
+
+147
+00:09:43,408 --> 00:09:45,410
+Ei! Sai do carro!
+
+148
+00:09:47,996 --> 00:09:51,291
+O vídeo do Kira! Me mostra de que
+estúdio eles estão transmitindo.
+
+149
+00:09:51,625 --> 00:09:52,626
+<i>Estamos ao vivo!</i>
+
+150
+00:09:52,793 --> 00:09:55,295
+<i>Um veículo acabou de passar
+pelas portas da emissora!</i>
+
+151
+00:09:56,421 --> 00:09:59,674
+É um jeito de entrar no
+prédio sem ser visto pelo Kira.
+
+152
+00:09:59,966 --> 00:10:01,676
+Mas quem...
+
+153
+00:10:02,594 --> 00:10:05,347
+É a Polícia! Parem
+essa transmissão imediatamente!
+
+154
+00:10:05,514 --> 00:10:06,640
+Quem é você?
+
+155
+00:10:07,057 --> 00:10:09,100
+Me entrega essas fitas. Entendeu?!
+
+156
+00:10:09,893 --> 00:10:11,603
+Espera, policial! Não é tão simples!
+
+157
+00:10:11,978 --> 00:10:12,979
+Minhas mãos estão atadas.
+
+158
+00:10:13,146 --> 00:10:15,065
+Se pararmos a transmissão,
+ele mata todos nós.
+
+159
+00:10:16,107 --> 00:10:20,111
+Calado! Você vai ser morto aqui e
+agora se não me entregar essas fitas!
+
+160
+00:10:20,612 --> 00:10:22,781
+O quê? O que você
+pensa que está fazendo?
+
+161
+00:10:23,532 --> 00:10:24,699
+Isso é loucura!
+
+162
+00:10:24,866 --> 00:10:25,867
+Death Note - modo de usar:
+
+163
+00:10:26,076 --> 00:10:27,118
+Qualquer instrumento poderá ser
+usado para escrever no Death Note,
+
+164
+00:10:27,327 --> 00:10:28,370
+desde que permita manter
+as letras visíveis.
+
+165
+00:10:28,662 --> 00:10:29,871
+Pode usar cosméticos,
+sangue, entre outros.
+
+166
+00:10:30,038 --> 00:10:31,164
+Death Note - Modo de Usar
+
+167
+00:10:31,373 --> 00:10:32,999
+Nem mesmo proprietário original
+do Death Note, Shinigami,
+
+168
+00:10:33,208 --> 00:10:34,918
+conhece totalmente a abrangência
+dos poderes deste caderno.
+
+169
+00:10:35,168 --> 00:10:38,547
+Isso está acontecendo porque escolheu
+tornar Kira uma celebridade!
+
+170
+00:10:38,964 --> 00:10:40,757
+Vai levar exatamente o que merece!
+
+171
+00:10:41,174 --> 00:10:43,051
+- Oh!
+- Quero todas as cópias que têm!
+
+172
+00:10:43,510 --> 00:10:45,095
+E não me faça pedir de novo!
+
+173
+00:10:45,595 --> 00:10:47,013
+Tá bom!
+
+174
+00:10:47,180 --> 00:10:48,348
+Eu entrego a você!
+Sem problemas.
+
+175
+00:10:48,515 --> 00:10:50,100
+Por favor, pare de sacudir essa arma.
+
+176
+00:10:50,809 --> 00:10:52,727
+Você está agindo feito louco.
+
+177
+00:10:53,228 --> 00:10:56,022
+<i>Ainda estamos ao vivo da TV Sakura.</i>
+
+178
+00:10:56,189 --> 00:10:58,358
+<i>como podem ver, um carro
+da Polícia acabou de chegar!</i>
+
+179
+00:10:58,692 --> 00:11:01,319
+Então, não estamos sozinhos.
+
+180
+00:11:01,486 --> 00:11:03,572
+Ainda há outros policiais por aí
+prontos a enfrentar o Kira!
+
+181
+00:11:03,947 --> 00:11:04,948
+- Aizawa.
+- Hum?
+
+182
+00:11:05,949 --> 00:11:08,535
+Sabe o número do celular do
+Sub-Delegado Kitamura, não é?
+
+183
+00:11:13,164 --> 00:11:16,001
+Aizawa, já disse para
+não ligar para esse número.
+
+184
+00:11:16,251 --> 00:11:17,294
+<i>- Aqui é o L.
+-Oh</i>
+
+185
+00:11:18,003 --> 00:11:20,005
+<i>Tem uma coisa
+que preciso que faça pra mim.</i>
+
+186
+00:11:20,338 --> 00:11:21,923
+Pode ser que alguns policiais
+vejam essa transmissão
+
+187
+00:11:22,090 --> 00:11:25,260
+e se sintam levados
+a agir em nome da justiça.
+
+188
+00:11:25,886 --> 00:11:27,846
+<i>Se não assumir o controle
+da situação agora,</i>
+
+189
+00:11:28,013 --> 00:11:29,347
+<i>vai haver um desastre.</i>
+
+190
+00:11:29,723 --> 00:11:33,268
+Mas tecnicamente não devemos
+nos envolver nesse caso. Hum?
+
+191
+00:11:36,313 --> 00:11:39,024
+<i>Oh, dois policiais acabaram
+de cair na calçada!</i>
+
+192
+00:11:39,357 --> 00:11:42,027
+<i>Acho que podemos estar em perigo.
+Estamos nos retirando do local.</i>
+
+193
+00:11:44,279 --> 00:11:46,031
+Eu entendo, L.
+
+194
+00:11:46,197 --> 00:11:48,825
+Entendo seu ponto de vista.
+Me diz o que fazer.
+
+195
+00:11:53,038 --> 00:11:54,706
+É o Detetive Superintendente Yagami.
+
+196
+00:11:55,123 --> 00:11:57,167
+Liga pra ele imediatamente
+e me dá o telefone.
+
+197
+00:11:57,500 --> 00:11:59,085
+Preciso falar com o Ryuzaki!
+
+198
+00:11:59,794 --> 00:12:04,007
+Sou eu. Senhor Yagami, o senhor
+dirigia o carro da Polícia?
+
+199
+00:12:04,382 --> 00:12:07,010
+Isso mesmo.
+Não posso sentar e assistir.
+
+200
+00:12:07,802 --> 00:12:10,931
+Confisquei todas as fitas.
+Estou levando elas a você.
+
+201
+00:12:11,681 --> 00:12:13,266
+Mas e a sua saúde? Está tudo bem?
+
+202
+00:12:13,767 --> 00:12:18,063
+Estou me sentindo bem. Pra ser
+sincero, nunca me senti tão vivo.
+
+203
+00:12:18,855 --> 00:12:20,398
+Então, o que acha
+que devo fazer agora?
+
+204
+00:12:21,232 --> 00:12:23,401
+Ir lá na porta vai ser perigoso.
+
+205
+00:12:23,693 --> 00:12:25,403
+Mas eu posso usar o carro da Polícia.
+
+206
+00:12:26,154 --> 00:12:27,405
+Por favor, espera.
+
+207
+00:12:28,073 --> 00:12:31,409
+Sub-delegado Kitamura, foi o
+Senhor Yagami que entrou no prédio.
+
+208
+00:12:31,993 --> 00:12:33,286
+<i>Está tudo confirmado da sua parte?</i>
+
+209
+00:12:33,787 --> 00:12:35,038
+Confirmado. Como você pediu.
+
+210
+00:12:35,997 --> 00:12:37,791
+Senhor Yagami, ouça com atenção.
+Em exatamente cinco minutos,
+
+211
+00:12:37,958 --> 00:12:40,418
+<i>quero que saia pela porta da frente.</i>
+
+212
+00:12:40,919 --> 00:12:42,754
+Quer que eu saia
+pela porta da frente? Ooh.
+
+213
+00:13:10,281 --> 00:13:12,117
+<i>Cuidem pra que não haja brecha!</i>
+
+214
+00:13:12,659 --> 00:13:14,202
+<i>Não revelem seus rostos!</i>
+
+215
+00:13:14,869 --> 00:13:16,454
+<i>Sabemos que Kira
+não está no prédio!</i>
+
+216
+00:13:16,997 --> 00:13:18,289
+<i>Ele está fora!</i>
+
+217
+00:13:30,385 --> 00:13:31,469
+Obrigado.
+
+218
+00:13:32,262 --> 00:13:33,763
+Eu mesmo dirijo.
+
+219
+00:13:34,305 --> 00:13:35,390
+Eu entendo.
+
+220
+00:13:42,814 --> 00:13:43,815
+Escuta!
+
+221
+00:13:43,982 --> 00:13:46,526
+Há uma boa chance de Kira ainda
+estar nas proximidades da emissora!
+
+222
+00:13:47,235 --> 00:13:50,864
+<i>Quando sair, tenham cuidado.
+Não devem retirar seus capacetes!</i>
+
+223
+00:13:54,200 --> 00:13:56,911
+<i>Aí está. A Polícia se recusa
+a cooperar com Kira.</i>
+
+224
+00:13:57,078 --> 00:13:58,413
+<i>Eles se preparam para lutar!</i>
+
+225
+00:13:59,080 --> 00:14:02,834
+<i>E por mais que eu tema pela
+minha própria vida dizendo isso:</i>
+
+226
+00:14:03,418 --> 00:14:06,296
+<i>Está certo!
+E deve ser feito!</i>
+
+227
+00:14:07,005 --> 00:14:09,049
+<i>Kira se tornou uma ameaça
+à nossa constituição</i>
+
+228
+00:14:09,215 --> 00:14:10,258
+<i>e como cidadãos de bem,
+devemos enfrentar!</i>
+
+229
+00:14:11,051 --> 00:14:13,136
+<i>Sou o âncora do Noticiário
+de Ouro da NHN</i>
+
+230
+00:14:13,303 --> 00:14:16,890
+<i>Koki Tanakabara!</i>
+
+231
+00:14:20,393 --> 00:14:21,394
+Chefe Yagami!
+
+232
+00:14:21,811 --> 00:14:22,937
+Bem vindo, Chefe.
+
+233
+00:14:24,814 --> 00:14:28,526
+Ryuzaki, peço desculpas por ter
+tomado atitudes por minha conta.
+
+234
+00:14:29,402 --> 00:14:31,404
+Eu admito que me deixei levar.
+
+235
+00:14:31,863 --> 00:14:32,864
+Não.
+
+236
+00:14:33,031 --> 00:14:35,116
+Toma. Aqui estão todas
+as fitas e um envelope.
+
+237
+00:14:35,366 --> 00:14:37,243
+Tudo que Kira enviou
+à emissora está aqui.
+
+238
+00:14:38,161 --> 00:14:39,412
+Não sei como agradecer.
+
+239
+00:14:40,205 --> 00:14:42,499
+Acho melhor eu descansar
+um pouco. Ooh.
+
+240
+00:14:45,877 --> 00:14:46,878
+<i>Senhor Yagami,</i>
+
+241
+00:14:47,545 --> 00:14:49,047
+<i>isso não vai ser em vão.</i>
+
+242
+00:14:50,423 --> 00:14:52,175
+<i>O carimbo postal é de Osaka.</i>
+
+243
+00:14:53,093 --> 00:14:55,929
+<i>Mas Kira pode controlar suas
+vítimas antes delas morrerem.</i>
+
+244
+00:14:56,513 --> 00:14:59,349
+<i>Então, ele pode ter enviado
+de Osaka sem ir lá pessoalmente.</i>
+
+245
+00:15:00,391 --> 00:15:01,476
+Aizawa.
+
+246
+00:15:01,893 --> 00:15:03,895
+Pode levar isso
+ao laboratório de Criminalística?
+
+247
+00:15:04,395 --> 00:15:06,189
+Ainda tenho alguns amigos lá.
+
+248
+00:15:06,356 --> 00:15:08,149
+Vou pedir que eles verifiquem
+cada milímetro delas.
+
+249
+00:15:08,358 --> 00:15:09,400
+Bom. Por favor, faz isso.
+
+250
+00:15:09,901 --> 00:15:10,944
+Enquanto faz isso,
+
+251
+00:15:11,111 --> 00:15:13,321
+vou ver essas fitas pra ver
+se elas nos dizem alguma coisa.
+
+252
+00:15:17,909 --> 00:15:19,410
+Bem, o que acha disso?
+
+253
+00:15:19,953 --> 00:15:21,329
+Elas são mesmo interessantes.
+
+254
+00:15:22,163 --> 00:15:23,164
+CÓPIA 2 - CÓPIA 3
+
+255
+00:15:23,331 --> 00:15:24,332
+Se a polícia aceitar
+
+256
+00:15:24,499 --> 00:15:27,919
+e concordar em cooperar com Kira,
+a fita três deve ser transmitida.
+
+257
+00:15:28,253 --> 00:15:29,963
+Ou a fita quatro
+se a resposta for não.
+
+258
+00:15:31,089 --> 00:15:33,133
+A fita três cobre
+os termos da cooperação.
+
+259
+00:15:33,591 --> 00:15:37,262
+Resumindo, quer que a gente transmita
+os nomes de mais criminosos.
+
+260
+00:15:37,929 --> 00:15:40,223
+Ele parece bem interessado
+naqueles que atacaram outros
+
+261
+00:15:40,390 --> 00:15:42,851
+ou aqueles que
+de alguma forma machucaram
+
+262
+00:15:43,017 --> 00:15:44,310
+ou tiraram vantagem
+dos fracos e indefesos.
+
+263
+00:15:45,311 --> 00:15:47,480
+Claro que Kira faria
+o papel de juiz nisso tudo.
+
+264
+00:15:48,523 --> 00:15:52,277
+E mais, como prova de que
+a Polícia está pronta a cooperar,
+
+265
+00:15:52,485 --> 00:15:55,363
+ele quer que L e os policiais
+
+266
+00:15:55,530 --> 00:15:57,115
+apareçam na TV para fazer
+um comunicado público
+
+267
+00:15:57,282 --> 00:15:58,825
+de que planejamos cooperar com ele.
+
+268
+00:16:00,535 --> 00:16:03,329
+Ele quer que revelemos nossos rostos.
+
+269
+00:16:03,496 --> 00:16:05,790
+Assim, pode nos matar se a Polícia
+fizer qualquer coisa suspeita.
+
+270
+00:16:05,957 --> 00:16:07,959
+Em outras palavras, ele vai
+ter nossas vidas como garantia.
+
+271
+00:16:09,043 --> 00:16:13,006
+Sei. E o conteúdo da fita quatro?
+Se respondermos não?
+
+272
+00:16:13,548 --> 00:16:16,426
+Disse de maneira diferente, mas é
+mais ou menos a mesma coisa.
+
+273
+00:16:17,468 --> 00:16:20,847
+Senhor Yagami, não preciso dizer
+que a resposta é não.
+
+274
+00:16:21,181 --> 00:16:24,225
+Por favor, manda alguém enviar
+a fita quatro à TV Sakura
+
+275
+00:16:24,392 --> 00:16:26,144
+e autorize a transmissão dela.
+
+276
+00:16:27,312 --> 00:16:31,107
+<i>Eu só posso dizer que
+é uma pena responderem não.</i>
+
+277
+00:16:31,316 --> 00:16:32,984
+<i>É claro que a Polícia
+quer se opor a mim</i>
+
+278
+00:16:33,151 --> 00:16:34,611
+e isso não vai ficar sem punição.
+
+279
+00:16:34,986 --> 00:16:38,156
+<i>Vou começar tirando a vida do diretor
+geral da agência nacional,</i>
+
+280
+00:16:38,323 --> 00:16:41,326
+<i>ou o detetive conhecido como L,
+que atualmente</i>
+
+281
+00:16:41,576 --> 00:16:43,536
+<i>lidera a investigação contra mim.</i>
+
+282
+00:16:44,495 --> 00:16:48,541
+<i>O diretor geral, ou L,
+vai pagar o preço de sua recusa</i>
+
+283
+00:16:48,708 --> 00:16:51,211
+<i>de cooperação na criação
+de um mundo mais pacífico?</i>
+
+284
+00:16:52,337 --> 00:16:54,172
+<i>Vocês têm quatro dias para decidir.</i>
+
+285
+00:17:04,182 --> 00:17:06,309
+Parece que tenho
+até Deus ao meu lado agora.
+
+286
+00:17:07,227 --> 00:17:08,978
+Bem, acho que na verdade
+
+287
+00:17:09,145 --> 00:17:10,188
+é um deus da morte.
+
+288
+00:17:11,356 --> 00:17:12,523
+Parece que sim.
+
+289
+00:17:13,441 --> 00:17:16,402
+Parece que outro Shinigami
+veio para o mundo dos humanos.
+
+290
+00:17:17,153 --> 00:17:19,072
+E de alguma forma,
+o Death Note desse Shinigami
+
+291
+00:17:19,239 --> 00:17:22,200
+<i>caiu nas mãos de alguém
+que concorda com Kira.</i>
+
+292
+00:17:22,992 --> 00:17:25,495
+<i>E essa pessoa deve ter
+os olhos de um Shinigami,</i>
+
+293
+00:17:26,496 --> 00:17:30,917
+<i>o que o torna bem perigoso,
+seu poder de matar é maior que o meu.</i>
+
+294
+00:17:31,376 --> 00:17:34,087
+Uma coisa é certa.
+Se eu deixar as coisas como estão,
+
+295
+00:17:34,254 --> 00:17:36,506
+tenho certeza de que L
+está acabado dentro de quatro dias.
+
+296
+00:17:37,382 --> 00:17:38,549
+Mas...
+
+297
+00:17:39,008 --> 00:17:42,262
+Não posso perdoar esse impostor pelo
+jeito como mancha a imagem do Kira
+
+298
+00:17:42,428 --> 00:17:43,930
+com essas mortes sem sentido.
+
+299
+00:17:44,555 --> 00:17:46,557
+Sem falar que se ele falhar
+e for pego,
+
+300
+00:17:46,724 --> 00:17:49,602
+o Death Note pode ser descoberto
+e não posso permitir isso.
+
+301
+00:17:50,061 --> 00:17:52,313
+Não posso deixar ele por aí
+por muito mais tempo.
+
+302
+00:17:55,316 --> 00:18:00,321
+O que precisa acontecer logo
+é eu me juntar à força tarefa.
+
+303
+00:18:00,488 --> 00:18:04,033
+Isso vai permitir que eu rastreie
+o L e esse falso Kira ao mesmo tempo.
+
+304
+00:18:08,454 --> 00:18:10,957
+Ryuzaki, acho que é como você pensou.
+
+305
+00:18:11,541 --> 00:18:14,252
+Vários de nossos membros
+pensaram bem
+
+306
+00:18:14,419 --> 00:18:17,255
+e parecem ser a favor de uma
+aparição do L verdadeiro na TV.
+
+307
+00:18:20,258 --> 00:18:22,552
+Acho que é a escolha
+mais apropriada dadas as opções.
+
+308
+00:18:23,511 --> 00:18:25,555
+Ainda temos três dias
+antes que aconteça.
+
+309
+00:18:25,722 --> 00:18:27,640
+Talvez possamos
+achar uma medida defensiva.
+
+310
+00:18:28,266 --> 00:18:30,101
+Depois disso tudo, me irritaria muito
+
+311
+00:18:32,103 --> 00:18:34,981
+se eu fosse morto
+por qualquer um dizendo ser o Kira.
+
+312
+00:18:36,149 --> 00:18:37,608
+Ryuzaki, o que quer dizer com isso?
+
+313
+00:18:39,610 --> 00:18:42,405
+Estou dizendo que há forte
+possibilidade desse Kira ser falso.
+
+314
+00:18:43,114 --> 00:18:46,117
+Não, devemos pensar nele
+como um segundo Kira.
+
+315
+00:18:46,326 --> 00:18:47,660
+- Oh!
+- Um segundo Kira?!
+
+316
+00:18:48,328 --> 00:18:51,456
+Não entendo.
+Por que acha que existe um duplo?
+
+317
+00:18:51,664 --> 00:18:53,666
+Como chegou a essa conclusão?
+
+318
+00:18:54,417 --> 00:18:58,713
+Primeiro, verifiquei as vítimas que
+usou para essas previsões da fita um.
+
+319
+00:18:58,921 --> 00:19:01,966
+O propósito delas era provar à equipe
+da TV Sakura que ele é o Kira.
+
+320
+00:19:02,467 --> 00:19:04,510
+Os dois nomes só foram
+divulgados em tabloides
+
+321
+00:19:04,677 --> 00:19:07,972
+e talk shows diurnos, então
+não eram criminosos conhecidos.
+
+322
+00:19:08,348 --> 00:19:09,640
+O verdadeiro Kira
+não precisa provar quem é
+
+323
+00:19:09,974 --> 00:19:12,310
+usando criminosos tão
+insignificantes.
+
+324
+00:19:12,977 --> 00:19:16,022
+Mas pela perspectiva do segundo Kira,
+
+325
+00:19:17,273 --> 00:19:19,942
+ele precisava ter certeza que não
+previa a morte de um criminoso
+
+326
+00:19:20,109 --> 00:19:22,570
+que pudesse ser morto
+pelo verdadeiro Kira antes.
+
+327
+00:19:23,071 --> 00:19:25,073
+Ryuzaki.
+
+328
+00:19:25,365 --> 00:19:28,493
+Se colocar em números, qual será a
+probabilidade de um segundo Kira?
+
+329
+00:19:29,327 --> 00:19:31,788
+Dessa vez eu diria
+que é mais de 70 por cento.
+
+330
+00:19:33,331 --> 00:19:35,583
+Eu não gosto do jeito
+como ele trabalha.
+
+331
+00:19:36,084 --> 00:19:37,168
+Não é como o Kira.
+
+332
+00:19:37,335 --> 00:19:38,419
+Não é como ele?
+
+333
+00:19:38,753 --> 00:19:41,506
+No passado, ele evitava
+tradicionalmente matar inocentes
+
+334
+00:19:41,672 --> 00:19:44,217
+com a exceção daqueles
+que tentavam pegar ele.
+
+335
+00:19:45,301 --> 00:19:47,011
+Enfim, se pudermos capturar um Kira,
+
+336
+00:19:47,178 --> 00:19:50,640
+acho que isso nos dará bastante
+noção de como podemos achar o outro.
+
+337
+00:19:52,683 --> 00:19:53,726
+Senhor Yagami.
+
+338
+00:19:54,352 --> 00:19:58,064
+Queria sua permissão para pedir que
+seu filho coopere nessa investigação.
+
+339
+00:19:59,315 --> 00:20:01,651
+Se quer que meu filho
+se una à força tarefa,
+
+340
+00:20:01,818 --> 00:20:03,403
+significa que não suspeita mais dele?
+
+341
+00:20:03,736 --> 00:20:06,864
+Não, não posso dizer que ele está
+completamente livre,
+
+342
+00:20:07,365 --> 00:20:09,534
+mas suas habilidades dedutivas seriam
+valiosas para nós agora.
+
+343
+00:20:10,451 --> 00:20:11,828
+Então, é isso.
+
+344
+00:20:12,870 --> 00:20:16,207
+Se meu filho quiser cooperar,
+não tenho motivos para impedir.
+
+345
+00:20:16,874 --> 00:20:19,293
+Eu agradeço.
+
+346
+00:20:19,877 --> 00:20:23,423
+Mas favor não diga a ele que achamos
+que esse último kira pode ser falso.
+
+347
+00:20:23,589 --> 00:20:25,174
+Ainda não quero que ele saiba.
+
+348
+00:20:25,800 --> 00:20:28,886
+Precisamos fazer com que ele ache que
+ainda estamos caçando o mesmo Kira.
+
+349
+00:20:35,935 --> 00:20:37,395
+Misa.
+
+350
+00:20:37,687 --> 00:20:39,856
+Dei aquele Death Note a você.
+
+351
+00:20:40,440 --> 00:20:43,818
+Então, por que não usar
+para si mesma?
+
+352
+00:20:44,318 --> 00:20:46,279
+Estou usando para mim.
+
+353
+00:20:46,446 --> 00:20:48,406
+Porque acredito
+no que Kira está fazendo.
+
+354
+00:20:48,865 --> 00:20:51,409
+Quero saber
+que tipo de pessoa ele é.
+
+355
+00:20:51,659 --> 00:20:53,828
+Quero conhecer ele pessoalmente
+e conversar com ele.
+
+356
+00:20:54,871 --> 00:20:57,832
+Esse é o único motivo de ter enviado
+aqueles vídeos à emissora de TV.
+
+357
+00:20:57,999 --> 00:21:00,334
+Tinha que descobrir um jeito
+de Kira me perceber.
+
+358
+00:21:01,377 --> 00:21:04,380
+Acho que devo ter chamado
+atenção dele. Você não acha?
+
+359
+00:21:05,256 --> 00:21:06,716
+Você está jogando um jogo perigoso.
+
+360
+00:21:07,550 --> 00:21:10,511
+Tem uma chance de ser morta.
+Você entende isso?
+
+361
+00:21:11,429 --> 00:21:15,516
+Tudo bem. Tenho certeza de que Kira
+é gentil com quem tem coração puro.
+
+362
+00:21:15,933 --> 00:21:17,435
+E se chegou até isso,
+
+363
+00:21:17,643 --> 00:21:20,563
+eu ainda sou mais forte que ele
+porque tenho os olhos!
+
+364
+00:21:22,773 --> 00:21:24,734
+CONTINUA
+
+365
+00:21:26,527 --> 00:21:31,449
+<i>Eu sonhei um sonho
+Que ninguém podia ver</i>
+
+366
+00:21:31,616 --> 00:21:36,787
+<i>Joguei fora tudo
+De que não precisava</i>
+
+367
+00:21:36,996 --> 00:21:40,666
+<i>Esses sentimentos</i>
+
+368
+00:21:40,833 --> 00:21:45,796
+<i>Que não posso abandonar</i>
+
+369
+00:21:45,963 --> 00:21:52,303
+<i>Mesmo se meus pés
+Vítimas das algemas do sacrifício</i>
+
+370
+00:21:52,470 --> 00:21:56,807
+<i>Entre a realidade e meu ideal</i>
+
+371
+00:21:57,683 --> 00:22:02,396
+<i>Não posso controlar
+Os impulsos que correm</i>
+
+372
+00:22:02,563 --> 00:22:06,192
+<i>Porque tenho um forte</i>
+
+373
+00:22:06,359 --> 00:22:09,820
+<i>Desejo de realizar</i>
+
+374
+00:22:10,530 --> 00:22:15,201
+<i>Trapaça, medo
+Vaidade, melancolia</i>
+
+375
+00:22:15,368 --> 00:22:20,206
+<i>Não sou fraco o suficiente</i>
+
+376
+00:22:20,373 --> 00:22:25,836
+<i>Para acreditar em nenhuma
+Dessas percepções negativas</i>
+
+377
+00:22:26,420 --> 00:22:31,717
+<i>Sou um Vigarista
+Que não conhece solidão</i>
+
+378
+00:22:35,930 --> 00:22:37,431
+PRÉVIA
+
+379
+00:22:37,598 --> 00:22:39,392
+<i>Preciso descobrir
+o que esse impostor quer</i>
+
+380
+00:22:39,559 --> 00:22:42,895
+<i>antes que alguém
+na força tarefa descubra.</i>
+
+381
+00:22:43,646 --> 00:22:48,150
+<i>Que tipo de pessoa
+deve ser você, impostor?</i>
+
+382
+00:22:48,317 --> 00:22:50,903
+PRÓXIMO EPISÓDIO:
+AMOR
+
